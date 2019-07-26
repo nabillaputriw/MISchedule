@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MI Schedule</string>
+    <string name="lbl_registrasi">Registrasi</string>
+    <string name="lbl_nim">NIM</string>
+    <string name="lbl_nama">Nama</string>
+    <string name="lbl_prodi">Prodi</string>
+    <string name="lbl_kelas">Kelas</string>
+    <string name="lbl_status">Status</string>
+    <string name="btn_simpan">SIMPAN</string>
+</resources>

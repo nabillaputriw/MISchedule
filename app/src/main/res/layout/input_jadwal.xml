@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <EditText
+        android:id="@+id/ed_hari"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Hari"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:id="@+id/ed_jam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Jam (eg. 00.00-00.00)"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:id="@+id/ed_matkul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Kode Matkul"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:id="@+id/ed_kelas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ruang (0.0.0)"
+        android:layout_margin="10dp"/>
+</LinearLayout>
